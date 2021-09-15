@@ -11,15 +11,27 @@ export const NavBar = () => {
         <Navbar.Toggle aria-controls="responsive-navbar" />
         <Navbar.Collapse id="responsive-navbar">
           <Nav className="ms-auto">
-            <Nav.Link className="d-flex align-items-center">
+            <Nav.Link
+              href="https://github.com/Guilherme-Arruda/markdown-previewer"
+              target="_blank"
+              className="d-flex align-items-center"
+            >
               <Star size={17} className="me-1" />
               Star this project
             </Nav.Link>
-            <Nav.Link className="d-flex align-items-center">
+            <Nav.Link
+              href="https://github.com/Guilherme-Arruda/markdown-previewer/fork"
+              target="_blank"
+              className="d-flex align-items-center"
+            >
               <GitBranch size={17} className="me-1" />
               Fork to your GitHub
             </Nav.Link>
-            <Nav.Link className="d-flex align-items-center">
+            <Nav.Link
+              href="https://github.com/Guilherme-Arruda"
+              target="_blank"
+              className="d-flex align-items-center"
+            >
               <GitHub size={17} className="me-1" />
               Follow @Guilherme-Arruda
             </Nav.Link>
