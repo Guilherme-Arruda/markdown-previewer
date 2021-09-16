@@ -5,7 +5,7 @@ Online markdown editor with live preview.
 
 ## 🤖 Demo
 
-You can view the project demo at [https://guilherme-arruda.github.io/anime-quote-machine/](https://guilherme-arruda.github.io/anime-quote-machine/).
+You can view the project demo at [https://guilherme-arruda.github.io/markdown-previewer/](https://guilherme-arruda.github.io/markdown-previewer/).
 
 ## 🚀 Getting Started
 
