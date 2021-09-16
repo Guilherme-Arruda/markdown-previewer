@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Output } from "../Output";
-import { markdown } from "../../helpers/markdown";
+import { markdown } from "../../Helpers/markdown";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
