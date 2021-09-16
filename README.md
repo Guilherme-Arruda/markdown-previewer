@@ -23,7 +23,7 @@ npm install
 yarn
 ```
 
-And then you can finally run the project using:
+Then you can finally run the project using:
 
 ```bash
 npm start
